@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hello,
+I am a math major and a cheerleader at CNU.
